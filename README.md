@@ -1,1 +1,1 @@
-# Selenium_Java_WebDriverManager_TestNG
+# This project is designed to look for TestNG with Selenium java on MAC. So if you need to run this project clone it and it requires TestNG4 Library to be added in eclipse along with that it uses WebDriverManager so no need to setup path the webdriver locally while running this project
